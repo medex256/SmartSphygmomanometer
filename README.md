@@ -1,4 +1,4 @@
-# SmartSphygmomanometer
+# micro:bit SmartSphygmomanometer
 A sphygmomanometer is a medical device that measures a person's blood pressure. In this project, we have created a smart version of the sphygmomanometer using a microbit. This smart device can automatically measure a person's blood pressure and heart rate.
 
 ## Outline of a project
