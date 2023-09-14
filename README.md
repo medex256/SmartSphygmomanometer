@@ -41,7 +41,7 @@ import gc
 from utime import ticks_ms
 from sys import exit
 ```
-  
+  You can install ssd1306 library package and browse its functions here https://github.com/fizban99/microbit_ssd1306
 
 
 
