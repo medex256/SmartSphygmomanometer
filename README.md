@@ -1,5 +1,5 @@
 # SmartSphygmomanometer
-Smart semi-automatic Sphygmomanometer which is implemented by using microbit. It can measure person's blood pressure and heart beat rate.
+A sphygmomanometer is a medical device that measures a person's blood pressure. In this project, we have created a smart version of the sphygmomanometer using a microbit. This smart device can automatically measure a person's blood pressure and heart rate.
 
 ## Outline of a project
 
@@ -13,9 +13,40 @@ Smart semi-automatic Sphygmomanometer which is implemented by using microbit. It
 
  - Understand how to prepare and store the data for easier data processing without the data overflow and memory limit exceeds.
 ## Hardware
+To complete this project microbit and Lab kit is required
 
  - micro:bit(v1 or v2)
+   
    ![image](https://github.com/medex256/SmartSphygmomanometer/assets/144814946/7f6fec12-e8c9-48ac-93a6-08dd93e95142)
+
+ 
+ - Lab kit
+   
+  ![image](https://github.com/medex256/SmartSphygmomanometer/assets/144814946/569f9e65-7440-4ecd-8fb8-ed79a9bc0be2)
+
+  A pressure pump will be installed on top of the lab kit as shown below 
+  
+  ![image](https://github.com/medex256/SmartSphygmomanometer/assets/144814946/32368a33-181f-464d-971b-b5675a17ef6e)
+  ## Software
+  The whole software for automatic measurment is written in python.
+  ### Libraries needed
+  
+  For this project we need several libraries which includes:
+ 
+``` python
+from microbit import *
+from ssd1306 import initialize, clear_oled
+from ssd1306_text import add_text
+import gc
+from utime import ticks_ms
+from sys import exit
+```
+  
+
+
+
+   
+
 
 
 
