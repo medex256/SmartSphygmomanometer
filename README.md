@@ -31,7 +31,7 @@ To complete this project microbit and Lab kit is required
   The whole software for automatic measurment is written in python.
   ### Libraries needed
   
-  For this project we need several libraries which includes:
+  For this project we need several libraries shown below:
  
 ``` python
 from microbit import *
@@ -43,6 +43,7 @@ from sys import exit
 ```
 
 You can install ssd1306 library package and browse its functions here https://github.com/fizban99/microbit_ssd1306
+  ### Functions needed
 
 
 
