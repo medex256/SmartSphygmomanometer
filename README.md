@@ -43,7 +43,25 @@ from sys import exit
 ```
 
 You can install ssd1306 library package and browse its functions here https://github.com/fizban99/microbit_ssd1306
-  ### Functions needed
+  ## Demonstration
+  ### User Input mode with the normal range
+https://youtu.be/4NGQ6APOWqM
+![image](https://github.com/medex256/SmartSphygmomanometer/assets/144814946/0c709a03-29ab-4167-a857-b981c0e81b19)
+
+  ### Non-user input and alert
+
+[![image](https://github.com/medex256/SmartSphygmomanometer/assets/144814946/e2747f54-019d-4406-a74d-d1e4c601825f)](https://youtu.be/2fEp0UV6zo0 
+)https://youtu.be/2fEp0UV6zo0 
+![image](https://github.com/medex256/SmartSphygmomanometer/assets/144814946/5637b6c5-98e6-4ce4-847d-2253f32b0d3b)
+
+### Special alert to remeasure
+https://youtu.be/oayR6AXWeyc 
+![image](https://github.com/medex256/SmartSphygmomanometer/assets/144814946/62b13b03-19ec-4569-98cd-8b2f538154e5)
+
+
+
+
+
 
 
 
